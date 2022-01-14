@@ -41,12 +41,12 @@ Strategy
 
 We will want to do many things with our OS:
 
-- Boot from scratch, without GRUB - 
-- Enter 32-bit mode - 
+- Boot from scratch, without GRUB 
+- Enter 32-bit mode 
 - Jump from Assembly to C 
 - Interrupt handling
-- Screen output and keyboard input - DONE!
-- A tiny, basic `libc` which grows to suit our needs - DONE!
+- Screen output and keyboard input 
+- A tiny, basic `libc` which grows to suit our needs 
 - Memory management
 - Write a filesystem to store files
 - Create a very simple shell
