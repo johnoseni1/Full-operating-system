@@ -39,7 +39,7 @@ TL;DR: First read the README on each folder, then the code files. If you're brav
 Strategy
 --------
 
-We will want to do many things with the OS:
+We will want to do many things with our OS:
 - Memory management
 - Write a filesystem to store files
 - Create a very simple shell
